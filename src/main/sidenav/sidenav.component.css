@@ -1,0 +1,18 @@
+.containar {
+  display: flex;
+  flex-direction: column;
+  height: 43rem;
+  border-right: 2 px solid #ccc;
+}
+.header {
+  height: 3.5 rem;
+  background-color: red;
+}
+.search {
+  height: 3.5 rem;
+  background-color: blue;
+}
+.chats {
+  height: 3.5 rem;
+  background-color: green;
+}
